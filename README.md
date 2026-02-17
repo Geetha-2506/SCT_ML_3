@@ -1,4 +1,4 @@
-# SCT_DS_3
+# SCT_ML_3
 Cats vs Dogs Classification – SVM
 
 Objective:
